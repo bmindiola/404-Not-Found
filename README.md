@@ -13,7 +13,7 @@
       Challenge
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://bmindiola.github.io/404-Not-Found/">
       Solution
     </a>
   </h3>
