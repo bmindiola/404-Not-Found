@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank" rel="noopener noreferrer">
       Challenge
     </a>
     <span> | </span>
-    <a href="https://bmindiola.github.io/404-Not-Found/">
+    <a href="https://bmindiola.github.io/404-Not-Found/" target="_blank" rel="noopener noreferrer">
       Solution
     </a>
   </h3>
