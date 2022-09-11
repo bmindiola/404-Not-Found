@@ -4,16 +4,16 @@
 <h1 align="center">HTTP status code 404 Not Found</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solución para un challenge de  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank" rel="noopener noreferrer">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
     <span> | </span>
-    <a href="https://bmindiola.github.io/404-Not-Found/" target="_blank" rel="noopener noreferrer">
+    <a href="https://bmindiola.github.io/404-Not-Found/" target="_blank">
       Solution
     </a>
   </h3>
